@@ -1,2 +1,2 @@
 # Week-1
-Predicting Solar Power Output using linear regression
+Task 1- Data exploration and visualization
